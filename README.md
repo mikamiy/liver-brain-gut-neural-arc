@@ -15,7 +15,7 @@ R v3.5.2 	https://www.r-project.org/
 
 This step pseudo-aligns bulk RNA-seq reads to the transcriptome. we pseudo-aligned RNA-seq reads to ENSEMBL transcripts (release 95 GRCm38), using kallisto (v0.44.0, options: -b 100).
 
-`In line code`
+` kallisto.sh `
 
 We visualized the expression levels of APC subset signature genes with neurotransmitter receptor genes by creating heatmaps with hierarchically clustered rows and columns (MORPHEUS; https://software.broadinstitute.org/morpheus/) and the ternary plot (ggtern v3.1.0).
 
