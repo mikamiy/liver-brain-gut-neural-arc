@@ -21,6 +21,6 @@ We visualized the expression levels of APC subset signature genes with neurotran
 
 ` 191120_ternaryplot_for_paper.R ` 
 
-  
+Gene lists for DC signatures and AchR are available as "GeneList_DC" and "GeneList_AchR".    
   
 
