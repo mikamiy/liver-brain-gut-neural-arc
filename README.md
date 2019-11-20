@@ -4,6 +4,9 @@ This package contains code to analyze genomic measurements (RNA-seq):
 The liver-brain-gut neural arc maintains the niche of regulatory T cells in the gut, Teratani T, et al. 2019.  
 
 ## Requirement
+### Data
+The data used in this study comes from GEOXXXXX.
+
 ### Software
 kallisto v0.44.0 	https://pachterlab.github.io/kallisto/  
 sleuth http://pachterlab.github.io/sleuth/  
