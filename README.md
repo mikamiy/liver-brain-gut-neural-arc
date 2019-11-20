@@ -19,7 +19,7 @@ This step pseudo-aligns bulk RNA-seq reads to the transcriptome. we pseudo-align
 
 We visualized the expression levels of APC subset signature genes with neurotransmitter receptor genes by creating heatmaps with hierarchically clustered rows and columns (MORPHEUS; https://software.broadinstitute.org/morpheus/) and the ternary plot (ggtern v3.1.0).
 
-`191120_ternaryplot_for_paper.R` 
+` 191120_ternaryplot_for_paper.R ` 
 
   
   
