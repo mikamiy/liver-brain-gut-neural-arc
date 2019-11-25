@@ -5,7 +5,7 @@ The liver-brain-gut neural arc maintains the niche of regulatory T cells in the 
 
 ## Requirement
 ### Data
-The data used in this study comes from GSE140952.
+The data used in this study comes from GSE140952 (https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE140952).
 
 ### Software
 kallisto v0.44.0 	https://pachterlab.github.io/kallisto/  
