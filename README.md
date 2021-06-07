@@ -1,7 +1,7 @@
 # liver-brain-gut-neural-arc
 
 This package contains code to analyze genomic measurements (RNA-seq):  
-The liver-brain-gut neural arc maintains the niche of regulatory T cells in the gut, Teratani T, et al. 2019.  
+The liver-brain-gut neural arc maintains the niche of regulatory T cells in the gut, Teratani T, et al. Nature 2020 (https://doi.org/10.1038/s41586-020-2425-3).  
 
 ## Requirement
 ### Data
